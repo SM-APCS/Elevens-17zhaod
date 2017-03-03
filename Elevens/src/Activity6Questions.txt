@@ -1,0 +1,10 @@
+1. The only possible moves are to remove one of the two fives and the six.
+
+2. Yes because cards A-10 are always removed in pairs and royals removed in triplets.
+Since there are an even number of A-10 cards and multiple of 3 amount of royals
+in the beginning, they must always stay even/multiple of 3. The only legal way to
+obtain three cards left then is 0 (A-10) and 3 (royals). Also, since royals must
+be removed in a triplet of a J, Q, and K, the last three cards must be this triplet.
+
+3. No strategy. Each card only pairs with one other type of card so the game is 
+completely luck based (whether or not the cards dealt can create moves).

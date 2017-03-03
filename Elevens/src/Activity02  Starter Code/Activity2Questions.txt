@@ -7,4 +7,4 @@
 	String[] suits = {"Spades", "Hearts", "Diamonds", "Clubs"};
 	String[] pointValues = {11, 10, 10, 10, 10, 9, 8, 7, 6, 5, 4, 3, 2};
 	
-4. No they do not matter, as long as they are before the call on the constructor.
+4. Yes because the order is taken into account when matching the elements to create new cards.
